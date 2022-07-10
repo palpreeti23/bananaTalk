@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+body{
+    font-family: 'Lobster', cursive;
+    background-image: linear-gradient(to right,#e9d5ff,#d8b4fe
+    );
+}
+.heading{
+    text-align: center;
+    background-color: DarkMagenta;
+    padding: 2rem;
+    margin: auto;
+    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+
+}  
+     
+.container-center{
+    max-width: 800px;
+    margin: auto;
+    
+}
+
+#txt-input{
+    border: solid;
+   width: 70%;
+    height: 6rem;
+    padding: 1rem;
+   margin-top: 3rem;
+   font-family: 'Lobster', cursive;
+   background-image: linear-gradient(to right,#e9d5ff,#d8b4fe
+    );
+}
+
+::placeholder{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+#btn-translate{
+    width: 20%;
+    height: 6vh;
+    padding: 0.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: DarkMagenta;
+}
+
+#output{
+    width: 70%;
+    border: solid;
+    height: 6rem;
+    padding: 1rem;
+
+}
+
+.comment{
+  
+    font-size: large;
+    font-weight: bold;
+}
+
+.about{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    
+}
+.container{
+    text-align: center;
+    font-size: large;
+
+}
+
+.footer{
+    background-color: DarkMagenta;
+    margin: 3rem 0rem;
+    padding: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
