@@ -4,12 +4,11 @@
 
 body{
     font-family: 'Lobster', cursive;
-    background-image: linear-gradient(to right,#e9d5ff,#d8b4fe
-    );
+   
 }
 .heading{
     text-align: center;
-    background-color: DarkMagenta;
+    background-color: #a855f7;
     padding: 2rem;
     margin: auto;
     border-bottom-right-radius: 1rem;
@@ -30,8 +29,7 @@ body{
     padding: 1rem;
    margin-top: 3rem;
    font-family: 'Lobster', cursive;
-   background-image: linear-gradient(to right,#e9d5ff,#d8b4fe
-    );
+   
 }
 
 ::placeholder{
@@ -46,7 +44,7 @@ body{
     font-weight: bold;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    background-color: DarkMagenta;
+    background-color: #a855f7;
 }
 
 #output{
@@ -76,7 +74,7 @@ body{
 }
 
 .footer{
-    background-color: DarkMagenta;
+    background-color: #a855f7;
     margin: 3rem 0rem;
     padding: 1rem;
     border-bottom-right-radius: 1rem;
